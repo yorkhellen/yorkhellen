@@ -6,4 +6,4 @@ Contributor to [nanobot](https://github.com/HKUDS/nanobot), an ultra-lightweight
 
 ## Contact
 
-[516302150@qq.com](mailto:516302150@qq.com)
+[Email](mailto:516302150@qq.com)

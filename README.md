@@ -1,15 +1,12 @@
-## Hi, I'm yorkhellen
+### Hi there 👋
 
-I work on distributed databases, AI agent systems, and SRE infrastructure at ByteDance in Shenzhen. Most of my open-source effort currently goes into [**nanobot**](https://github.com/HKUDS/nanobot), where I focus on session lifecycle correctness, process-tree safety, and workspace security boundaries.
+I'm **yorkhellen** (zhangxiaoyu.york), a coder based in Shenzhen.
 
-I care less about making a fix work once than making it stay fixed: tracing the exact execution path, closing stale-reference races, and shipping every fix with a focused regression test.
+- 🔭 Working on distributed databases, AI agent frameworks, and SRE tooling.
+- 🐈 Active contributor to [nanobot](https://github.com/HKUDS/nanobot) — an ultra-lightweight open-source AI agent framework.
+- ⚡ Previously worked on TiDB ecosystem (TiDB, TiProxy) and Apache Pulsar Go client.
+- 🛠️ Comfortable with Go, Python, and building observability / automation infrastructure.
 
-### Open-source work
+---
 
-At nanobot, I work across session persistence, exec-session cleanup, shell sandbox security, background-task lifecycle, and CI reliability.
-
-I also contribute to the TiDB ecosystem (TiDB, TiProxy) and the Apache Pulsar Go client.
-
-### Contact
-
-[GitHub](https://github.com/yorkhellen)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorkhellen&show_icons=true&hide_title=true)](https://github.com/yorkhellen)

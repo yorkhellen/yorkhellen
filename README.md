@@ -1,11 +1,9 @@
-### Hi there 👋
+## Hi, I'm yorkhellen
 
-I'm **yorkhellen** (zhangxiaoyu.york), a backend engineer based in Shenzhen.
+Backend engineer based in Shenzhen. Focused on golang, Python, AI agent systems, distributed databases, and message queues.
 
-后端开发 | golang / python / ai agent / database / message queue
+Contributor to [nanobot](https://github.com/HKUDS/nanobot), an ultra-lightweight open-source AI agent framework.
 
-- 🐈 Active contributor to [nanobot](https://github.com/HKUDS/nanobot) — an ultra-lightweight open-source AI agent framework.
+## Contact
 
-### Contact
-
-📧 [516302150@qq.com](mailto:516302150@qq.com)
+[516302150@qq.com](mailto:516302150@qq.com)

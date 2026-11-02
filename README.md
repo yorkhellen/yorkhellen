@@ -1,4 +1,4 @@
-## Hi, I'm yorkhellen
+## Hi, I'm york
 
 Backend engineer based in Shenzhen. Interested in AI agent systems, distributed databases, and message queues.
 
